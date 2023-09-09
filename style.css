@@ -1,0 +1,14 @@
+body{
+    background: #232323;
+    display:grid;
+    position:relative;
+    place-content:center;
+    
+   
+}
+p{
+    background:#ffffff;
+    font-family: sans-serif;
+    font-size:3em;
+
+}
